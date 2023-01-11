@@ -1,4 +1,4 @@
-SHEET METAL SHOP
+::SHEET METAL SHOP::
 
 1. Which tool is used for folding the sheet from corners? 
 Ans: Mallet or Nylon Hammer
@@ -34,3 +34,143 @@ Miscellaneous:
 
 What is soldering?
 Ans. Soldering is a joining process used to join different types of metals together by melting solder. Solder is a metal alloy usually made of tin and lead which is melted using a hot iron. The iron is heated to temperatures above 600 degrees Fahrenheit which then cools to create a strong electrical bond.
+
+
+
+
+
+
+
+
+::WELDING SHOP::
+
+11. What is the use of electrode in electric arc welding?
+Ans. Also known as Gas Tungsten Arc Welding (GTAW), uses a non- consumable tungsten electrode to create the arc and an inert shielding gas to protect the weld and molten pool against atmospheric contamination.
+
+12. Name the types of weld?
+Ans. Types of welding are:
+A MIG(Metal Inert Gas) Welding 
+B. Stick Welding
+C. TIG(Tungsten Inert Gas) Welding 
+D. Plasma Arc Welding
+E. Electron Beam and Laser Welding 
+F. Gas Welding
+
+13. Define welding?
+Ans. Welding is a fabrication process that joins materials, usually metals or thermoplastics, by using high heat to melt the parts together and allowing them to cool, causing fusion. Welding is distinct from lower temperature metal joining techniques such as brazing and soldering, which do not melt the base metal.
+
+14. What are the applications of welding? 
+Ans. SMAW(Shield metal arc welding), 
+GTAW(Gas tungsten arc welding), and 
+GMAW(Gas Metal arc welding) are the most common but not the only welding processes. 
+There are resistance welding, high energy beam welding, oxyfuel gas welding, and other processes with their own applications. 
+Applications include trains, cruise ships, sculptures, spacecraft, and roller coasters.
+
+15. Name some of the tools and equipment used in Arc welding?
+Ans. The various equipments required for electric arc welding are: 
+A. Electrode Holder
+B. Ground Clamp
+C. Wire brush and chipping hammer
+D. Welding table and cabin
+E. Face Shield 
+F. Hand gloves
+
+16. Differentiate between Lap, Butt and T joints?
+Ans. Lap Joint:
+A lap joint or overlap joint is a joint in which the members overlap. 
+Lap joints can be used to join wood, plastic, or metal. 
+A lap joint can be used in woodworking for joining wood together. 
+A lap joint may be a full lap or hall lap.
+Butt joint: A butt joint is a technique in which two pieces of material are joined by simply placing their ends together without any special shaping. 
+The name 'butt joint' comes from the way the material is joined together. 
+Tjoint: Tee welding joints are formed when two pieces intersect at a 90° angle. 
+This results in the edges coming together in the center of a plate or component in a 'T' shape. 
+Tee joints are considered to be a type of fillet weld, and they can also be formed when a tube or pipe is welded onto a base plate.
+
+17. What is the use of beveling operation in welding? 
+Ans: At its most basic level, beveling is a process used to prepare metal for a welded seam by cutting a slope at an angle on the edge of the metal. 
+This weld preparation sequence is an integral part of building everything from simple metal cabinets to complex metal structures to erecting bridge work.
+
+18. What are the types of flames in gas welding? 
+Ans: There are three types of flames natural flame, carburizing flame and oxidizing flame. 
+Natural flame has synchronized mixture of fuel and oxygen, carburizing flame has more fuel and oxidizing flame has more oxygen. 
+Different material used different flames according to weld condition.
+
+19. What are the compositions of gases used in gas welding? 
+Ans: For gas shielded welding processes such as TIG, MIG/MAG, FCAW. 
+Shielding gases may be inert gases, such as argon, helium and nitrogen, or argon-based mixtures containing carbon dioxide, oxygen or both. 
+Helium may be added to argon/carbon dioxide mixtures to improve productivity.
+
+20 What is Oxy-Acetylene gas welding? 
+Ans: Oxy fuel welding and oxy-fuel cutting are processes that use fuel gases and oxygen to wild or cut metats 
+French engineers Edmond Fouché and Charles Picord became the first to develop axviten-acetylene welding in 1903.
+
+21. Name some of the welding defects?
+Ans: Some of the welding defects are:
+A. Inclusions
+B. Lack of fusion 
+C. Porosity
+D. Undercut
+E Under-fill
+F. Cracks
+G. Excess reinforcement and excess penetration
+H. Over-roll/Overlap
+
+22. What is slag?
+Ans: Slag is a byproduct of steel production and is similar in character to volcanic rocks such as basalt and granite. 
+Slag is primarily used in the cement and construction industries, and largely in road construction.
+
+Slags are one of the most natural products of all.
+
+23. What is flux? Where it is used and why?
+Ans: Flux describes any effect that appears to pass or travel through a surface or substance. 
+A flux is a concept in applied mathematics and vector calculus which has many applications to physics.
+
+In soldering, a flux is used to remove oxide films, promote wetting, and prevent reoxidation of the surfaces during heating. 
+Rosin is widely used as a noncorrosive flux in soldering electronic equipment, 
+for other purposes, a water solution of zinc chloride and ammonium chloride may be used.
+
+The main purpose of the flux is to prepare the metal surfaces for soldering by cleaning and removing any oxides and impurities.... 
+The flux also protects the metal surfaces from re-oxidation during soldering and helps the soldering process by altering 
+the surface tension of the molten.
+
+24. Differentiate between gas welding and arc welding. Ans: Gas Welding:
+
+Gas welding is a welding process that melts and joins metals by heating them with a flame caused by a reaction of fuel gas and oxygen.... The flux may be used to deoxidize and cleanse the weld metal.
+
+Arc welding:
+
+Arc welding is a type of welding process using an electric arc to create heat to melt and join metals. A power supply creates an electric arc between a consumable or non-consumable electrode and the base material using either direct (DC) or alternating (AC) currents.
+
+25. Write welding positions. Give the most difficult welding position? 
+Ans: A welding position is a technique that allows a welder to join metals in the position in which they are found 
+or the position in which a specific component will be used.
+1. Flat position
+2. Horizontal position
+3. Vertical position
+4. Overhead position
+
+The most difficult welding position is Overhead position.
+
+26. Differentiate between AC arc welding and DC arc welding? 
+Ans: Direct current (DC) is used on most stick welding applications. 
+Alternating current (AC) is typically only used as a second option.... 
+DC positive polarity provides a high level of penetration into the steel. 
+DC negative polarity results in less penetration but a higher deposition rate.
+
+27. Describe the features of neutral, oxidizing and reducing flames used in gas welding?
+Ans: Neutral flames in gas welding. 
+The neutral flame has a one-to-one ratio of acetylene and oxygen. 
+It obtains additional oxygen from the air and provides complete combustion. 
+It is generally preferred for welding. 
+The neutral flame has a clear, well-defined, or luminous cone indicating that combustion is complete.
+Oxidizing flames in gas welding Oxidizing welding flames are produced when slightly more than one volume of oxygen is mixed with one volume of acetylene. 
+To obtain this type of flame, the torch should first be adjusted to a neutral flame. 
+The flow of oxygen is then increased until the inner cone is shortened to about one-tenth of its original length.
+
+Reducing flames in gas welding.
+Slightly carburizing or "reducing" flames are used to weld or braze easily oxidized alloys such as aluminum. ... 
+The flame remains neutral up to about 2.5:1 oxygen-to-fuel ratio. 
+Increasing the oxygen flame produces a lighter blue flame, a longer inner cone, and a louder burning sound. 
+This is an oxidizing MAPP gas flare.
+
